@@ -1,0 +1,27 @@
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+        </style>
+    <link rel="stylesheet" type="text/css" href="ganxi.css">
+</head>
+<script>
+    function btn(){
+        alert('문의가 접수되었습니다. 메일을 통해 답변을 기다려주세요');
+    }
+</script>
+<body>
+    <div class="ABUOT"style="margin:auto;text-align:center;">
+        <form method="POST" style="display:inline-block;text-align:left;">
+            <ul>
+                <li>
+                    이름: <input type="text" id="user_name">
+                </li>
+                <li>메일주소: <input type="email" id="user_email"></li>
+                <li>문의내용: <input type="text" id="message" style="width:300px;"></li>
+            </ul>
+            <button onclick="javascript:btn();" class="replace"style"float: right">
+                빠른 문의
+            </button>
+        </form>
+    </div>
+</body>

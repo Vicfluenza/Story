@@ -1,0 +1,84 @@
+
+.top {
+    padding-top: 1.15%;
+}
+
+.top-left {
+    padding-left: 3%;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    width:30%;
+    
+}
+
+.top-right {
+    padding-right: 3%;
+    text-align: right;
+    text-decoration: none;
+    float: right;
+    width:47%;
+    
+}
+
+h1 {
+    color: plum;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: Plum;
+    font-weight: bolder;
+}
+
+.TG {
+    padding-left: 3%;
+    padding-top: 3%;
+    text-align: left;
+    font-size: 70px;
+}
+
+.category {
+    text-align: center;
+    padding-right: 3%;
+    text-decoration: none;
+    font-weight: bolder;
+    color: plum;
+}
+
+hr {
+    width: 94%;
+    height: 0.8px;
+    background-color: plum;
+}
+
+.tail {
+    text-align: center;
+    font-size: 80%;
+    color: rgb(131, 131, 131);
+}
+
+table {
+    width: 300px;
+    border: 1px solid #bcbcbc;
+    padding-left: 50%;
+  }
+
+.ABOUT {
+    text-align : center;
+    font-size: 50px;
+    color: black;
+}
+
+.p1 {
+    text-align : center;
+}
+
+.jua-font {
+    font-family: 'Jua', sans-serif;
+}
+
